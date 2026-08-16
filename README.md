@@ -12,3 +12,4 @@ What percentage of each country's population had been vaccinated by a given date
 
 An Screenshot of an output is attached for reference
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/51cac2a1-dc6d-48b0-8aba-f677ff8162f5" />
+This image is of query finding out countries with highest infection rate compared to population 
