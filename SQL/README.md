@@ -5,3 +5,4 @@ Using the publicly available Our World in Data (OWID) COVID-19 dataset, I wrote 
 Which countries had the highest infection and death rates relative to population? How did vaccination rollout progress over time, and which countries adopted vaccines earliest? How do continents compare in terms of total death counts and pandemic severity? What percentage of each country's population had been vaccinated by a given date?
 
 An Screenshot of an output is attached for reference
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/de49471b-339d-4aca-9ec5-8e1825fef992" />
