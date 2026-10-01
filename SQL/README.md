@@ -6,3 +6,4 @@ Which countries had the highest infection and death rates relative to population
 
 An Screenshot of an output is attached for reference
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/de49471b-339d-4aca-9ec5-8e1825fef992" />
+This image is of query finding out countries with highest infection rate compared to population
